@@ -1,0 +1,5 @@
+{
+  "name": "San Marzano Chatbot_web",
+  "description": "Intelligent chatbot for San Marzano Pizzeria that takes orders, manages customer data, and utilizes the Gemini API for natural conversation.",
+  "requestFramePermissions": []
+}
